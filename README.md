@@ -2,4 +2,4 @@
 ## [Canvas Site](https://sdsu.instructure.com/courses/188639)
 > Big Data is a contantly evolving field applying data science to growing datasets (and definitions)
 > 
-[Pictured below: two juvenile wood ducks and their mother](BDA594-EmersonCeccarelli/Wood_Ducks.JPEG)
+[Pictured below: two juvenile wood ducks and their mother](Wood_Ducks.JPG)
